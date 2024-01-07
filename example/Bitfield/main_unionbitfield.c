@@ -5,7 +5,7 @@ MSB            LSB
 | 4 bits(cmd) | 4bits(data)|
 +--------------------------+
 
-send 1byte data: 4 bits cmd + 4 bits data
+send 1byte data: 4 sbits cmd + 4 bits data
 
 -> parse
 
